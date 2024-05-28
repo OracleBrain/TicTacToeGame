@@ -4,7 +4,7 @@
 
 **Description**
 
-This is a classic Tic Tac Toe game built with Flutter, offering a fun and engaging way to challenge friends or practice your strategic thinking.
+This is a classic Tic Tac Toe game, offering a fun and engaging way to challenge friends or practice your strategic thinking.
 
 **Features**
 
