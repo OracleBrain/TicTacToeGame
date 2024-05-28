@@ -44,7 +44,6 @@ This is a classic Tic Tac Toe game built with Flutter, offering a fun and engagi
 
 We welcome contributions to make this game even better! Feel free to submit pull requests for bug fixes or new features, such as:
 
-* Two-player mode
 * Difficulty levels for the AI opponent (if implemented)
 * Visual enhancements
 
